@@ -1,6 +1,6 @@
     """Creating a switch-case with distinct values
     by creating a dictionary and as a key using len(names)
-
+    Codewars - Who likes it? - https://www.codewars.com/kata/5266876b8f4bf2da9b000362/python
     """
 def likes(names):
     n = len(names)
